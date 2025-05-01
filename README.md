@@ -56,6 +56,9 @@
 
 Για τεχνική υποστήριξη ή αναφορά προβλημάτων, επικοινωνήστε μέσω GitHub Issues.
 
+Εάν θέλετε να υποστηρίξετε την ανάπτυξη του προγράμματος, μπορείτε να μας κεράσετε έναν καφέ:
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/nikiforos65)
+
 ## Έκδοση
 
 Τρέχουσα έκδοση: 1.0.0
